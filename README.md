@@ -18,11 +18,7 @@
 <a href="https://www.python.org/"><code><img height="20" src="./images/python.jpg"></code></a>
 <a href="https://scrapy.org/"><code><img height="20" src="./images/scrapy.jpg"></code></a>
 <a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+
 
 
 ### Github 活跃度
