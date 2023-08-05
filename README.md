@@ -1,22 +1,22 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## python工程师
+## 一名Python爬虫工程师
 
-热爱python。喜欢参与一些开源项目的讨论。
+热爱Python，喜欢研究爬虫技术。
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="[https://juejin.cn/user/1214304985296439/posts](https://blog.csdn.net/weixin_48446170?type=blog)"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：3年码龄的猿。
+-  <a href="https://blog.csdn.net/weixin_48446170?type=blog"><code><img height="20" width="50" src="./images/csdn.jpg"></code></a>：3年码龄。
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
+<a href="http://appium.io/docs/en/2.0/"><code><img height="20" src="./images/appium.jpg"></code></a>
+<a href="https://www.selenium.dev/"><code><img height="20" src="./images/Selenium.jpg"></code></a>
+<a href="https://www.python.org/"><code><img height="20" src="./images/python.jpg"></code></a>
+<a href="https://scrapy.org/"><code><img height="20" src="./images/scrapy.jpg"></code></a>
 <a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
 <a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
