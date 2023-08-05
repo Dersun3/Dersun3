@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="[https://juejin.cn/user/1214304985296439/posts](https://blog.csdn.net/weixin_48446170?type=blog)"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：3年码龄的猿。
 
 ### **技术栈:**
 
@@ -24,10 +24,6 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Dersun3&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
 
 ### Github 活跃度
 
